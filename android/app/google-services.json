@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "7759088078",
+    "project_id": "youtubedownplayer"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7759088078:android:67822f827a92831e",
+        "android_client_info": {
+          "package_name": "com.youtubedownplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7759088078-2b1r1hj24ue4kr7a7unvs80a4gubl1ds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.youtubedownplayer",
+            "certificate_hash": "3a1c059b03b3a5cf7df2b72fae0752f355671483"
+          }
+        },
+        {
+          "client_id": "7759088078-kg4vja08uqq2tjfk554i7r3pq6uf7m6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCijsglNUTzU2zlpe4MhrqRVk3AcW7mdzk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
